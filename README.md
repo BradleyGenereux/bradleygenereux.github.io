@@ -24,10 +24,8 @@
 - The **logistic model** was created and optimized by minimizing AIC using **MASS**.
 - Chi square test of independence, 10-fold cross validation, confusion matrix, and other visualizations were made to determine the quality of the model with **ggplot, caret, and ROCR**.
 
-<p align="center">
-    <img src="./assets/proj2.1.png" width=45% hspace="10">
-    <img src="./assets/proj2.2.png" width=45% hspace="10">
-</p>
+<img src="./assets/proj2.1.png" width="45%"/>
+<img src="./assets/proj2.2.png" width="45%"/>
 
 -----
 [**Project 3: Tracking Paper Airplanes**](link soon)
